@@ -1,2 +1,0 @@
-# CeditCard
-Created with CodeSandbox
